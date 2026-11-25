@@ -1,0 +1,42 @@
+{
+  "name": "Pulse IPTV",
+  "identifier": "com.pulse.iptv.source",
+  "subtitle": "Builds of Pulse IPTV for iPhone and iPad",
+  "iconURL": "https://raw.githubusercontent.com/mxxxx4x-wq/pulse-iptv-ios-builds/main/icon.png",
+  "tintColor": "#7B5CFF",
+  "apps": [
+    {
+      "name": "Pulse IPTV",
+      "bundleIdentifier": "com.pulse.iptv",
+      "developerName": "Mohamed Elsisi",
+      "subtitle": "Player for your own IPTV subscription",
+      "localizedDescription": "Pulse IPTV plays the IPTV subscription you already have: live TV, movies and series, Continue Watching, favourites, picture in picture and Pulse Sync with the Android app. It does not include any channels or content.",
+      "iconURL": "https://raw.githubusercontent.com/mxxxx4x-wq/pulse-iptv-ios-builds/main/icon.png",
+      "tintColor": "#7B5CFF",
+      "category": "entertainment",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Used to play streams from servers on your local network."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.7",
+          "buildVersion": "7",
+          "date": "2026-11-25T14:59:53Z",
+          "localizedDescription": "Build 7",
+          "downloadURL": "https://github.com/mxxxx4x-wq/pulse-iptv-ios-builds/releases/download/build-7/PulseIPTV.ipa",
+          "size": 22046060,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "1.1.7",
+      "versionDate": "2026-11-25T14:59:53Z",
+      "versionDescription": "Build 7",
+      "downloadURL": "https://github.com/mxxxx4x-wq/pulse-iptv-ios-builds/releases/download/build-7/PulseIPTV.ipa",
+      "size": 22046060
+    }
+  ],
+  "news": []
+}
